@@ -1,0 +1,1 @@
+UCI HAR Dataset/train/.DS_Store
